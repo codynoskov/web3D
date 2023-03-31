@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@codynoskov/web3D",
   "version": "0.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Cody",
+    "url": "https://2real.io/"
   },
   "repository": {
     "type": "git",
